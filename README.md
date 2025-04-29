@@ -9,6 +9,9 @@ https://drive.google.com/drive/u/1/folders/0AFFw42i31nDRUk9PVA
 The link to the drive contains the following:
 
 1.) Atlium Project Files
+
 2.) Schematics
+
 3.) MATLAB Web Application
+
 4.) Validation Videos
