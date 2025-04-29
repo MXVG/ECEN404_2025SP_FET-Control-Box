@@ -1,6 +1,6 @@
 # FET Control Box
 
-##Note
+## Note
 
 Some project files are too big to upload to github, so they are stored on Google Drive.
 
