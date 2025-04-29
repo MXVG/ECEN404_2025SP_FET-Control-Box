@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c5e2cb59-1b8a-4773-85e7-53212420ee8b)# FET Control Box
+# FET Control Box
 
 ##Note
 
