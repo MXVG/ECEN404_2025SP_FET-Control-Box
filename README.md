@@ -4,7 +4,6 @@
 
 Some project files are too big to upload to github, so they are stored on Google Drive.
 
-https://drive.google.com/drive/u/1/folders/0AFFw42i31nDRUk9PVA
 https://drive.google.com/drive/folders/1XxuEcugIndfZ2PrkWp7dB_dPId6wZmyl
 
 The link to the drive contains the following:
